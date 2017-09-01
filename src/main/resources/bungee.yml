@@ -1,0 +1,5 @@
+name: LobbySigns
+author: Vinetos
+main: fr.vinetos.lobbysigns.bungee.LobbySignsPlugin
+version: ${project.version}
+website: https://www.vinetos.fr/

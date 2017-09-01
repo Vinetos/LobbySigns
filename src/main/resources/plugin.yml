@@ -1,0 +1,5 @@
+name: LobbySigns
+author: Vinetos
+main: fr.vinetos.lobbysigns.bukkit.LobbySignsPlugin
+version: ${project.version}
+website: https://www.vinetos.fr/
